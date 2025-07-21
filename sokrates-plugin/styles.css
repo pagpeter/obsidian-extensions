@@ -1,0 +1,29 @@
+.flowchart {
+	transform: scale(0.7);
+}
+
+.flowchart .label-container {
+	border: 2px solid black;
+	background: none;
+	stroke: black !important;
+	fill: white !important;
+}
+
+.flowchart .flowchart-link {
+	marker-end: none !important;
+}
+
+.flowchart .label-container {
+	rx: 50%;
+	ry: 50%;
+	width: 70px;
+	height: 70px;
+}
+
+.flowchart .nodeLabel em {
+	display: none;
+}
+
+.default > g {
+	transform: translate(-5px, -5px) !important;
+}

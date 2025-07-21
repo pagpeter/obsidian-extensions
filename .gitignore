@@ -137,3 +137,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+*.js
+.DS_Store
+node_modules
+./sokrates-plugin/node_modules/*

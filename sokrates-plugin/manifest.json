@@ -1,0 +1,10 @@
+{
+	"id": "sokrates-integration",
+	"name": "Sokrates Integration",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Integrates a university-internal math tutor into obsidian",
+	"author": "peet",
+	"authorUrl": "https://peet.ws",
+	"isDesktopOnly": true
+}

@@ -1,0 +1,10 @@
+{
+	"id": "anki-exporter",
+	"name": "Anki Integration",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Export >[!anki] callouts as .apkg",
+	"author": "peet",
+	"authorUrl": "https://peet.ws",
+	"isDesktopOnly": true
+}

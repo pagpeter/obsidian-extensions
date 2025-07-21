@@ -1,0 +1,10 @@
+{
+	"id": "aistudio",
+	"name": "aistudio Integration",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Integrates gemini API into obsidian",
+	"author": "peet",
+	"authorUrl": "https://peet.ws",
+	"isDesktopOnly": true
+}
